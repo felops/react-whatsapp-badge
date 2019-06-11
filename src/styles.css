@@ -1,0 +1,17 @@
+.badge {
+  width: 60px;
+  height: 60px;
+  right: 1.5rem;
+  bottom: 1.5rem;
+  position: fixed;
+  overflow: hidden;
+  z-index: 2147483646;
+  border-radius: 30px;
+  background: transparent;
+  transition: box-shadow 150ms linear;
+  box-shadow: 0 3px 13px rgba(0, 0, 0, .25);
+}
+
+.badge:hover {
+  box-shadow: 0 5px 25px rgba(0, 0, 0, .5);
+}
