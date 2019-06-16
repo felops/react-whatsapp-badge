@@ -1,10 +1,15 @@
 {
   "name": "react-whatsapp-badge",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Click to chat Whatsapp badge",
   "author": "felops",
   "license": "MIT",
   "repository": "felops/react-whatsapp-badge",
+  "keywords": [
+    "whatsapp",
+    "badge",
+    "react"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
