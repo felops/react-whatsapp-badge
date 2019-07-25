@@ -34,7 +34,7 @@ class Example extends Component {
 | Parameter     | Required      | Desciption    |
 | ------------- | ------------- | ------------- |
 | text      | yes | Text to display on input when open chat |
-| phone     | yes | Phone number to send message (only number) |  
+| phone     | yes | Phone number with country code to send message (only number) |  
 | image     | yes | Image to display on badge (download this file and save on public folder: [img](https://raw.githubusercontent.com/felops/react-whatsapp-badge/master/example/public/whatsapp.png)) |
 
 ## License
